@@ -186,6 +186,8 @@ enum PortNum {
    */
   PRIVATE_APP = 256;
 
+  PIR_SENSOR_APP = 258;
+
   /*
    * ATAK Forwarder Module https://github.com/paulmandal/atak-forwarder
    * ENCODING: libcotshrink
